@@ -107,5 +107,3 @@ For any inquiries or issues, please contact [your-email@example.com](mailto:your
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-Bu yapıyı **MD Clone** projen için özelleştirilmiş şekilde hazırladım. İstersen daha fazla detay ekleyebilir veya bazı kısımları genişletebilirim!
